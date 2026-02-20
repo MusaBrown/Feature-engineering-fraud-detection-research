@@ -287,8 +287,7 @@ Student ID: 202219155
 Honours in Computer Science  
 University of Limpopo, 2025
 
-📧 [Your Email]  
-🔗 [LinkedIn]  
+ 
 🐙 [GitHub: @MusaBrown](https://github.com/MusaBrown)
 
 ---
